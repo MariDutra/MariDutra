@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73D1A&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Sejam+bem-vindos!+Me+chamo+Maria%F0%9F%98%98)](https://git.io/typing-svg)
 
 
- <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" aling="center" width="900" >
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-redacao-desenhada-a-mao_23-2150266863.jpg?w=2000" aling="center" width="900" >
 
 <h1 aling ="center">Hi 👋, I'm Maria</h1>
-<h3 aling="center">A passionate frontend developer from Brazil</h3>
+<h3 aling="center">A passionate developer fullstack from Brazil</h3>
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **maria.dutra2305@gmail.com**
