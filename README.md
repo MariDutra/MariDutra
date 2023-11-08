@@ -22,7 +22,7 @@
 
 <p><img aling="center" margin="40 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariDutra&show_icons=true&locale=en&layout=compact&theme=dracula" alt="MariDutra" /></p>
 
-<p> <img aling="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariDutra&theme=tokyonight&hide_border=falso&mode=weekly&type=png&hide_total_contributions=true" alt="MariMutra" /></p>
+<p> <img aling="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariDutra&theme=tokyonight&hide_border=falso&mode=weekly&type=png&hide_total_contributions=true" alt="MariDutra" /></p>
 
 
  
